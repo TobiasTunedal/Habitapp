@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noa\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\Noa\Habitapp\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_5435aaf2fd1d4c252927018f9bf6f44c7b33231b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noa\Habitapp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\Noa\Habitapp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_5980df2d95a1cb7d88cd11d7e0c059815c3f3ac7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noa\Habitapp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Noa\Habitapp\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_d243b98e6bca9d6066bd1b5430bd9a307a9f860e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noa\Habitapp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\Noa\Habitapp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_9cd84a54821dcfe0b498002a7081a71365183f22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noa\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\Noa\Habitapp\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_139c3aafdc9ef5688e2c1335df5307ba1a46575e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noa\Habitapp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\Noa\Habitapp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_d86381fdf658147f3e313b42dfc4dfae0ade0e00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noa\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\Noa\Habitapp\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_048caa45f5b34230eec3d5a402d6af83b33e0e85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noa\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\Noa\Habitapp\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_40174a83b68c1bc2a85cd93356cbd1c35035d419.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noa\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Noa\Habitapp\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_a4d3e05beec904c96ccb50a159cb13b5217cf0c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noa\Habitapp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\Noa\Habitapp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_3992922528b210997709293c1f746482eddc9b14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noa\Habitapp\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\Noa\Habitapp\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_5d51ad15995beb52465a6f8d1a239a035f07b617.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noa\Habitapp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.52.0\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\Noa\Habitapp\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_7bf7ec203e8a3ecf2f9f55c140694c35dfaefa19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noa\Habitapp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Noa\Habitapp\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_531a9abad2524975f4f7dd0c5fa283daf8343593.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noa\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Noa\Habitapp\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_07c584f106d1f5bcb694373d647a48fe1eafa4f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noa\Habitapp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\Noa\Habitapp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_3e7c186162307a27aed2d8f2a3c79b56c8f7a816.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noa\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\Noa\Habitapp\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_b0ad291f55d11053e087dbfbe99a0fcbeb736b9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noa\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\Noa\Habitapp\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_47b0eccea82e0e34e641886cbc0fe1e659da7247.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noa\Habitapp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\Noa\Habitapp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_6f42e276610f01b7c103cf3cd69c418bb912f287.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noa\Habitapp\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Noa\Habitapp\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_93cf427a0aa74a61e6e07333bf1f6205ac1a96f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noa\Habitapp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.52.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
+        <dex dex="C:\Users\Noa\Habitapp\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.52.0_af93bcc926a701ef1dc2dc2e6ecd9f9e262dbd80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Noa\Habitapp\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\Noa\Habitapp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_d70df41cffa55233ed7ea808e548d87eea030e96.jar" />
+    </item>
+
+</items>
