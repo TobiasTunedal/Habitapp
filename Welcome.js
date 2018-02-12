@@ -5,7 +5,7 @@ export default class Welcome extends React.Component {
     render(){
         return(
             <View>
-                <Text>Welcome to Habitapp!</Text>
+                <Text>IT'S WORKIIING!</Text>
             </View>
         )
     }
