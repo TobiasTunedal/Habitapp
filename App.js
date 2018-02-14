@@ -3,6 +3,8 @@ import { StyleSheet, Text, View } from 'react-native';
 import { AppRegistry, Image } from 'react-native';
 import Hamburger from 'react-native-hamburger';
 
+import Welcome from './Welcome';
+
 export default class App extends React.Component {
 
   constructor(props) {
@@ -20,6 +22,7 @@ export default class App extends React.Component {
     return (
 
       <View style={styles.container}>
+<<<<<<< HEAD
       
       <View style={[styles.hamburgerMenu]}>
       <Hamburger active={this.state.active}
@@ -33,6 +36,9 @@ export default class App extends React.Component {
         <Text>To Habitapp</Text>
       </View>
 
+=======
+        <Welcome/>
+>>>>>>> master
       </View>
       
     );
